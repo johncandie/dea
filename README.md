@@ -4,7 +4,7 @@
 </div>
 
 # DEA
-DEA is a multi-purpose Discord Bot mainly known for it's infamous Cash System with multiple subtleties referencing to the show Narcos, which inspired the creation of this masterpiece. You can get all the information related to commands by viewing the links below.
+DEA is a multi-purpose Discord Bot mainly known for it's infamous Cash System with multiple subtleties referencing to the show Narcos, which inspired the creation of this masterpiece. You can get all the information related to commands by viewing the links below.This is a fork of the dea bot which can be found on vim2metas github.The code is old and broken.
 
 [Full documentation](https://vim2meta.github.io/dea/)
 
@@ -19,4 +19,4 @@ The way this system works is quite simple, for every message that you send every
 If you are extra lucky, when sending messages you can win up to $10,000.00 in the lottery! The odds of winning the lottery are very low, but the more you chat, the higher chance you have of winning it!
 
 ## DEA Items
-TODO
+spicy shit coming up
