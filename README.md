@@ -8,9 +8,9 @@ DEA is a multi-purpose Discord Bot mainly known for it's infamous Cash System wi
 
 [Full documentation](https://vim2meta.github.io/dea/)
 
-[Add DEA to your Server](https://discordapp.com/oauth2/authorize?client_id=383998740685520906&scope=bot&permissions=8)
+[Add DEA to your Server](https://discordapp.com/oauth2/authorize?client_id=419920535791730688&scope=bot&permissions=8)
 
-[Official Support Server](https://discord.gg/gvyma7H)
+[Official Support Server](https://discord.gg/sBFqzPm)
 ## DEA Cash System
 One of the best ways to keep an engaging and active community running. This bot encourages chatting and helps form relationships between other users, bonding communities closer together.
 
